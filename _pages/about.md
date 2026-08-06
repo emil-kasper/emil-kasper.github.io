@@ -2,18 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Computer Science (Honors) @ <a href="https://www.tuwien.at/">TU Wien</a> · Software Engineer @ Siemens Mobility · ML Researcher. Vienna, Austria.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpg # EDIT: replace assets/img/prof_pic.jpg with your own photo (keep this filename, or change it here)
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>TU Wien, Vienna, Austria</p>
+    <p><a href="mailto:emil.kasper@tuwien.ac.at">emil.kasper@tuwien.ac.at</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # set to true once you add papers to _bibliography/papers.bib marked selected={true}
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,8 +26,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a Computer Science (Honors) student at [TU Wien](https://www.tuwien.at/) in Vienna, working at the intersection of software engineering and machine learning.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Right now I'm a Software Engineer at **Siemens Mobility**, contributing to a testing framework for the European Train Control System (ETCS) and its autonomous train operation (ATO) mode. In parallel, I do reinforcement-learning research as an undergraduate researcher in TU Wien's **Machine Learning Research Unit** under Prof. Clemens Heitzinger — studying the convergence and stability of Q-Learning and Speedy Q-Learning, and implementing PPO for dexterous robotic-hand manipulation.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I also teach as a TA at the Institute for Human-Centered Technology, and I've built flight-software frontends for the TU Wien Space Team's rocket at the European Rocketry Challenge. My interests span reinforcement learning, optimal control, human–computer interaction, and generative AI.
+
+<!-- EDIT: feel free to add a personal note, what you're looking for, or how best to reach you. -->
+

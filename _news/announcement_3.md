@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-08-01 09:00:00+0200
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Joined Siemens Mobility as a Software Engineer, working on a testing framework for the European Train Control System (ETCS) and autonomous train operation (ATO). 🚆
