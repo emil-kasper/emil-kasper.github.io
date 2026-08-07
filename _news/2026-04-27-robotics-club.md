@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am joining the [TU Wien Robotics Club](https://www.tuwrc.at/) to work on the software team on AI for robotics.
+I joined the [TU Wien Robotics Club](https://www.tuwrc.at/) to work on the software team on AI for robotics.

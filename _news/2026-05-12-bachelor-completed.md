@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am completing my Bachelor's in Computer Science at TU Wien with distinction.
+I completed my Bachelor's in Computer Science at TU Wien with distinction.

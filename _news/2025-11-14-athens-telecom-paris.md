@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am participating in the ATHENS exchange program at Télécom Paris (14 to 21 Nov 2025), where I complete the course *Practice in Deep Learning* with the highest possible grade.
+I participated in the ATHENS exchange program at Télécom Paris (14 to 21 Nov 2025), where I completed the course *Practice in Deep Learning* with the highest possible grade.
