@@ -7,4 +7,4 @@ importance: 2
 category: research
 ---
 
-<!-- EDIT: describe the project — the research question, methods, and findings. -->
+<!-- EDIT: describe the project: the research question, methods, and findings. -->

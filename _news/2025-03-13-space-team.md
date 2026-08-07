@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined the TU Wien Space Team to work on building rockets — part of the software-engineering team, mainly responsible for frontend development. 🚀
+I am joining the TU Wien Space Team to work on building rockets. I will be part of the software-engineering team and mainly responsible for frontend development.

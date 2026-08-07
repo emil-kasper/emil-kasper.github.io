@@ -7,6 +7,6 @@ importance: 5
 category: research
 ---
 
-> 🚧 **In progress** — more details coming soon.
+> 🚧 In progress. More details coming soon.
 
 <!-- EDIT: describe the Acoustic Error Recognition project here. -->

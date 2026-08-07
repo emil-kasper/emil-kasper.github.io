@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined **Siemens Mobility** in Vienna as a part-time Software Engineer, working on train-operation and train-simulation frameworks. 🚆
+I am joining Siemens Mobility in Vienna as a part-time Software Engineer, where I will work on train-operation and train-simulation frameworks.

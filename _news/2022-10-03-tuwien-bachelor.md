@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined [TU Wien](https://www.tuwien.at/) to begin my Bachelor's in Computer Science. 🎓
+I am starting my Bachelor's in Computer Science at [TU Wien](https://www.tuwien.at/).

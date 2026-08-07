@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Won **3rd place** at the *Zero One Hack* hackathon, sponsored by Infineon and AI Factory Austria, where we trained models to predict sequences in chip manufacturing on the Leonardo supercomputer — together with colleagues from the TU Wien Robotics Club and JKU Linz. 🏆
+I win 3rd place at the *Zero One Hack* hackathon, sponsored by Infineon and AI Factory Austria, where we train models to predict sequences in chip manufacturing on the Leonardo supercomputer, together with colleagues from the TU Wien Robotics Club and JKU Linz.

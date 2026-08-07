@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Llamar Rocket — EuRoC 2025
+title: Llamar Rocket at EuRoC 2025
 description: Flight software for the TU Wien Space Team's rocket at the European Rocketry Challenge.
 img: # add a thumbnail: place an image in assets/img/ and put its path here, e.g. assets/img/llamar.jpg
 importance: 1
 category: engineering
 ---
 
-<!-- EDIT: write about the Llamar project here — your role, the software, the challenge, the result. -->
+<!-- EDIT: write about the Llamar project here: your role, the software, the challenge, and the result. -->
 
 Watch the launch at EuRoC 2025:
 

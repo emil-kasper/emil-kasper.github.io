@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Selected for the [European Student Assembly 2026 (ESA26)](https://www.eucvoices.eu/european-student-assembly/european-student-assembly-2026-5th-edition), representing the EULiST alliance on Panel 5 (*Unlocking Digital Potential*). I'll debate key issues and advocate for policy changes at the European level, writing policy recommendations on how to empower inclusive digital literacy and build resilience.
+I have been selected for the [European Student Assembly 2026 (ESA26)](https://www.eucvoices.eu/european-student-assembly/european-student-assembly-2026-5th-edition), where I will represent the EULiST alliance on Panel 5 (*Unlocking Digital Potential*). I will debate key issues and advocate for policy changes at the European level, and I will help write policy recommendations on how to empower inclusive digital literacy and build resilience.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Meeting at the European Parliament in Strasbourg (20–23 Apr 2026) to discuss and vote on our policy recommendations as part of ESA26.
+I am meeting at the European Parliament in Strasbourg (20 to 23 Apr 2026) to discuss and vote on our policy recommendations as part of ESA26.

@@ -29,7 +29,7 @@ cv:
         degree: BSc
         studyType: BSc with Honors
         start_date: 2022-10
-        end_date: 2026-06
+        end_date: 2026-05
         score: With distinction
         highlights:
           - Additional one-year Honors track focused on machine learning.
@@ -92,11 +92,11 @@ cv:
           - RL fine-tuning for vision-language-action models (VLAs), audio understanding for robots, and world models.
 
     Programs:
-      - name: ATHENS Exchange — Practice in Deep Learning (Télécom Paris)
+      - name: "ATHENS Exchange: Practice in Deep Learning (Télécom Paris)"
         date: 2025-11
         summary: Completed the course with the highest possible grade.
 
-      - name: European Student Assembly 2026 (ESA26) — Panel 5
+      - name: "European Student Assembly 2026 (ESA26): Panel 5"
         date: 2026
         summary: Representing the EULiST alliance on "Unlocking Digital Potential"; writing policy recommendations on inclusive digital literacy and resilience.
 
@@ -106,7 +106,7 @@ cv:
 
       - name: Bachelor with Honors Program, TU Wien
         date: 2024-10
-        summary: Excellence program — research and advanced machine-learning coursework under Prof. Clemens Heitzinger.
+        summary: Excellence program with research and advanced machine-learning coursework under Prof. Clemens Heitzinger.
 
       - name: HUAWEI Seeds for the Future 2023
         date: 2023-09

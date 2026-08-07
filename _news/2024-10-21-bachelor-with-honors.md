@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Accepted into the [Bachelor with Honors](https://informatics.tuwien.ac.at/bachelor-with-honors/) excellence program at TU Wien. I'll work under Prof. Clemens Heitzinger in the Research Unit for Machine Learning and focus on advanced ML coursework.
+I have been accepted into the [Bachelor with Honors](https://informatics.tuwien.ac.at/bachelor-with-honors/) excellence program at TU Wien. I will work under Prof. Clemens Heitzinger in the Research Unit for Machine Learning and focus on advanced machine-learning coursework.

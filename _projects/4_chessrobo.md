@@ -7,6 +7,6 @@ importance: 4
 category: engineering
 ---
 
-> 🚧 **In progress** — more details coming soon.
+> 🚧 In progress. More details coming soon.
 
 <!-- EDIT: describe the ChessRobo project here. -->
