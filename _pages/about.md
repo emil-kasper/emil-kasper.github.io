@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Science @ <a href="https://ethz.ch/">ETH Zurich</a> · Research Fellow @ ETH Zurich. 
+subtitle: Computer Science @ ETH Zurich · Research Fellow @ ETH Zurich.
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
     <p><a href="mailto:kaspere@ethz.ch">kaspere@ethz.ch</a></p>
 
 selected_papers: false # set to true once you add papers to _bibliography/papers.bib marked selected={true}
-social: true # includes social icons at the bottom of the page
+social: false # set to true to show social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -28,9 +28,8 @@ latest_posts:
 
 I'm a Computer Science student at [ETH Zurich](https://ethz.ch/), interested in reinforcement learning, robot learning, and explainability.
 
-Prior to that I finished my Bachelor's at [TU Wien](https://tuwien.ac.at/) in Vienna, and completed an additional one-year honours track allowing me to focus on machine learning. For a year I worked as a Software Engineer at **Siemens Mobility** contributing to a testing framework for the European Train Control System (ETCS) and its autonomous train operation (ATO) mode. In parallel, I did RL research as an undergraduate researcher in TU Wien's **Machine Learning Research Unit** under Prof. Clemens Heitzinger, where I studied the convergence and stability of Q-Learning and Speedy Q-Learning. Furthermore, I worked as a TA at the Institute for Human-Centered Technology, helped build rockets at my TU Wien's Space Team, and was involved in policy-making for digital technologies. 
+Before that, I completed my Bachelor's at [TU Wien](https://tuwien.ac.at/) in Vienna, including an additional one-year honours track that let me focus on machine learning. During that time, I spent a year as a Software Engineer at **Siemens Mobility**, contributing to a testing framework for the European Train Control System (ETCS) and its autonomous train operation (ATO) mode.
 
-Currently I pursue a Master in Computer Science at ETH Zurich, and work as a Research Fellow at the [IVIA LAB](https://ivia.ch/) on agency delegation and human-AI collaboration in shared-initiative settings. Besides, I am involved in the [TU Wien Robotics Club](https://www.tuwrc.at/) working on RL fine-tuning for VLAs, audio understanding for robots, and world models.
+In parallel, I carried out reinforcement-learning research as an undergraduate researcher in TU Wien's **Machine Learning Research Unit** under Prof. Clemens Heitzinger, where I studied the convergence and stability of Q-Learning and Speedy Q-Learning. I also worked as a teaching assistant at the Institute for Human-Centered Technology, helped build rockets with the TU Wien Space Team, and was involved in policy-making for digital technologies.
 
-<!-- EDIT: feel free to add a personal note, what you're looking for, or how best to reach you. -->
-
+Currently, I am pursuing a Master's in Computer Science at ETH Zurich and working as a Research Fellow at the [IVIA Lab](https://ivia.ch/) on agency delegation and human–AI collaboration in shared-initiative settings. I am also involved in the [TU Wien Robotics Club](https://www.tuwrc.at/), working on RL fine-tuning for VLAs, audio understanding for robots, and world models.
