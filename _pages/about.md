@@ -46,12 +46,22 @@ In parallel, I carried out reinforcement-learning research as an undergraduate r
 
 Currently, I am pursuing a Master's in Computer Science at ETH Zurich and working as a Research Fellow at the [IVIA Lab](https://ivia.ch/) on agency delegation and human–AI collaboration in shared-initiative settings. I am also involved in the [TU Wien Robotics Club](https://www.tuwrc.at/), working on RL fine-tuning for VLAs, audio understanding for robots, and world models.
 
-<div class="news-expander-wrap" style="margin-top: 2rem;">
-<details class="news-expander">
-<summary>Expand news</summary>
-<div style="margin-top: 1.2rem;">
+<h2 class="news-heading" style="margin-top: 2.2rem;">News</h2>
+
 {% assign news_items = site.news | sort: "date" | reverse %}
-{% for item in news_items %}
+<div class="news-list">
+{% for item in news_items limit: 3 %}
+<div class="news-row">
+<div class="news-date">{{ item.date | date: "%b %-d, %Y" }}</div>
+<div class="news-body">{{ item.content }}</div>
+</div>
+{% endfor %}
+</div>
+{% if news_items.size > 3 %}
+<details class="news-expander" style="margin-top: 0.6rem;">
+<summary>Show more news</summary>
+<div class="news-list" style="margin-top: 1rem;">
+{% for item in news_items offset: 3 %}
 <div class="news-row">
 <div class="news-date">{{ item.date | date: "%b %-d, %Y" }}</div>
 <div class="news-body">{{ item.content }}</div>
@@ -59,4 +69,4 @@ Currently, I am pursuing a Master's in Computer Science at ETH Zurich and workin
 {% endfor %}
 </div>
 </details>
-</div>
+{% endif %}
