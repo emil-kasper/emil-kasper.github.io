@@ -1,6 +1,6 @@
 cv:
   name: Emil Kasper
-  location: Zurich, Switzerland
+  location: Vienna and Zurich
   email: kaspere@ethz.ch
   social_networks:
     - network: GitHub
@@ -8,51 +8,68 @@ cv:
 
   sections:
     Profile:
-      - Computer Science Master's student at ETH Zurich and Research Fellow at the IVIA Lab, working on reinforcement learning for shared-initiative human–AI collaboration. Background in machine-learning research, software engineering, and robotics.
-
-    Education:
-      - institution: ETH Zurich
-        location: Zurich, Switzerland
-        url: https://ethz.ch/
-        area: Computer Science
-        degree: MSc
-        studyType: MSc
-        start_date: 2026
-        end_date: present
-        highlights:
-          - Focus on reinforcement learning, robot learning, and human–AI collaboration.
-
-      - institution: TU Wien (Vienna University of Technology)
-        location: Vienna, Austria
-        url: https://www.tuwien.at/
-        area: Computer Science
-        degree: BSc
-        studyType: BSc with Honors
-        start_date: 2022-10
-        end_date: 2026-05
-        score: With distinction
-        highlights:
-          - Additional one-year Honors track focused on machine learning.
-          - Received merit-based scholarships.
+      - Computer Science student moving from TU Wien to ETH Zurich, with a focus on reinforcement learning, robot learning, and human-AI interaction. Experience spanning machine-learning research, software engineering, and robotics.
 
     Experience:
-      - company: Siemens Mobility
-        position: Software Engineer (part-time)
+      - company: TU Wien Robotics Club
+        position: Machine Learning Engineer
+        location: Vienna, Austria
+        start_date: 2026-04
+        end_date: present
+        highlights:
+          - Implementing vision-language-action models (VLAs) and world models for robotics tasks.
+          - Leading the reinforcement learning division.
+          - Building a chess robot that autonomously plays chess and moves the pieces.
+
+      - company: IVIA Lab, ETH Zurich
+        position: Research Fellow (ETH SSRF)
+        location: Zurich, Switzerland
+        start_date: 2026-07
+        end_date: 2026-08
+        summary: "Supervised by Prof. Menna El-Assady."
+        highlights:
+          - Selected as one of 20 students from over 4,000 applicants for the ETH Student Summer Research Fellowship.
+          - Working on explainable AI and human-AI interaction.
+
+      - company: Siemens
+        position: Software Engineer
         location: Vienna, Austria
         start_date: 2025-08
-        end_date: 2026-07
+        end_date: 2026-06
         highlights:
-          - Contributed to a testing framework for the European Train Control System (ETCS) and its autonomous train operation (ATO) mode.
-          - Worked on train-operation and train-simulation frameworks.
+          - Contributing to a test simulation framework for the European Train Control System (ETCS).
+          - Implementing the autonomous train operation (ATO) mode in C# for test simulations.
+          - Presenting and pitching to stakeholders from Norway, Germany, Belgium, and Austria.
 
       - company: Institute for Human-Centered Technology, TU Wien
         position: Teaching Assistant
         location: Vienna, Austria
         start_date: 2025-03
-        end_date: 2025-07
-        summary: "Course: Interface and Interaction Design (Prof. Jessica Cauchard)."
+        end_date: 2026-06
+        summary: "Course: Interface and Interaction Design."
         highlights:
-          - Guided 45 of roughly 500 students through the human-centered product-development lifecycle and was responsible for their grading.
+          - Guiding students through the lifecycle of user-centered product development.
+          - Providing feedback and grading for 45 students.
+
+      - company: Machine Learning Research Unit, TU Wien
+        position: Undergraduate Researcher
+        location: Vienna, Austria
+        start_date: 2025-08
+        end_date: 2026-04
+        summary: "Supervised by Prof. Clemens Heitzinger."
+        highlights:
+          - Investigating the convergence and stability of Q-Learning and Speedy Q-Learning.
+          - Experimenting with PPO for robotic hand manipulation.
+
+      - company: European Student Assembly 2026, EUC Voices
+        position: Delegate
+        location: Strasbourg, France (hybrid)
+        start_date: 2026-01
+        end_date: 2026-04
+        highlights:
+          - Representing the EULiST alliance at the European Student Assembly 2026.
+          - Debating key issues and advocating for policy changes at the European level.
+          - Writing policy recommendations on empowering inclusive digital literacy and building resilience.
 
       - company: TU Wien Space Team
         position: Frontend Developer
@@ -60,57 +77,61 @@ cv:
         start_date: 2025-03
         end_date: 2025-10
         highlights:
-          - Built flight-software frontends for the "Llamar" rocket.
-          - Successful launch at the European Rocketry Challenge (EuRoC) 2025.
+          - Contributing to the "Lamarr" project at the 2025 European Rocketry Challenge (EuRoC).
+          - Building frontend tooling for rocket system control.
+
+    Education:
+      - institution: ETH Zurich
+        area: Computer Science
+        degree: MSc
+        location: Zurich, Switzerland
+        start_date: 2026-09
+        end_date: 2028-05
+        highlights:
+          - Accepted to start the Master's program in September 2026.
+
+      - institution: TU Wien (Vienna University of Technology)
+        area: Computer Science
+        degree: BSc (Honors)
+        location: Vienna, Austria
+        start_date: 2022-10
+        end_date: 2026-05
+        highlights:
+          - Four-year honors degree with a minor in machine learning.
+          - Graduated with distinction.
+          - Received merit-based scholarships.
 
     Research:
-      - company: IVIA Lab, ETH Zurich
-        position: Research Fellow (ETH SSRF)
-        location: Zurich, Switzerland
-        start_date: 2026-07
-        end_date: present
-        summary: "Supervised by Prof. Menna El-Assady."
-        highlights:
-          - Reinforcement learning for shared-initiative human–AI collaboration and agency delegation.
-          - Selected for the ETH Student Summer Research Fellowship among fewer than 1% of over 2,000 applicants.
+      - Coming soon.
 
-      - company: Machine Learning Research Unit, TU Wien
-        position: Undergraduate Researcher
-        location: Vienna, Austria
-        start_date: 2024-10
-        end_date: 2025-12
-        summary: "Supervised by Prof. Clemens Heitzinger."
-        highlights:
-          - Studied the convergence and stability of Q-Learning and Speedy Q-Learning.
+    Skills:
+      - name: Programming
+        summary: "Python, Java, C#, HTML, CSS, JavaScript"
+      - name: Machine Learning
+        summary: "Model development and evaluation"
+      - name: Reinforcement Learning
+        summary: "Algorithms, use cases, and applications"
+      - name: Software Engineering
+        summary: "Git, Docker, Maven, REST APIs"
+      - name: Data Analysis
+        summary: "Jupyter, NumPy, pandas, Matplotlib, R"
+      - name: Human-Centered Computing
+        summary: "HCI, HMI, user-centered design, UX principles"
+      - name: Generative AI
+        summary: "Prompting, API-based integration, prototype development"
+      - name: Optimal Control
+        summary: "Control algorithms for robotics"
 
-      - company: TU Wien Robotics Club
-        position: Software Team
-        location: Vienna, Austria
-        start_date: 2026-04
-        end_date: present
-        highlights:
-          - RL fine-tuning for vision-language-action models (VLAs), audio understanding for robots, and world models.
-
-    Programs:
-      - name: "ATHENS Exchange: Practice in Deep Learning (Télécom Paris)"
-        date: 2025-11
-        summary: Completed the course with the highest possible grade.
-
-      - name: "European Student Assembly 2026 (ESA26): Panel 5"
+    Prizes:
+      - name: Merit-based Scholarships, TU Wien
+        date: 2025
+        summary: Awarded in 2023, 2024, and 2025.
+      - name: Excellence Scholarship, State of Lower Austria
         date: 2026
-        summary: Representing the EULiST alliance on "Unlocking Digital Potential"; writing policy recommendations on inclusive digital literacy and resilience.
-
-      - name: European Honors Conference, Oslo
-        date: 2025-10
-        summary: Discussing interdisciplinarity and the future of European Honors education.
-
-      - name: Bachelor with Honors Program, TU Wien
-        date: 2024-10
-        summary: Excellence program with research and advanced machine-learning coursework under Prof. Clemens Heitzinger.
-
-      - name: HUAWEI Seeds for the Future 2023
-        date: 2023-09
-        summary: 15 hours of mentorship on cutting-edge technologies and the global Tech4Good competition.
+        summary: Awarded to fund studies at ETH Zurich.
+      - name: 3rd Place, Zero One Hack
+        date: 2026
+        summary: Hackathon sponsored by Infineon and AI Factory Austria.
 
     Languages:
       - name: German

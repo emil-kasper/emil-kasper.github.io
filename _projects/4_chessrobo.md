@@ -2,7 +2,7 @@
 layout: page
 title: ChessRobo
 description: Teaching an SO-101 robot arm to move chess pieces from natural-language commands (in progress).
-img: assets/img/chess_robot.jpg
+img: # shown inside the project page only, not on the overview card
 importance: 4
 category: engineering
 ---
