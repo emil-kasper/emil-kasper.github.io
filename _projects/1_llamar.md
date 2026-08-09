@@ -11,7 +11,11 @@ The Lamarr project is the TU Wien Space Team's student-built rocket that flies o
 
 At the heart of the rocket sits a self-made engine that burns ethanol together with liquid oxygen. It produces about 2,000 newtons of thrust and fires for roughly nine seconds. The body is made almost entirely of carbon fiber to keep it light, with a glass-fiber nose cone on top. Fully fueled the rocket weighs about 25 kilograms and stands 3.7 meters tall. Almost everything on board, from the flight computer to the data logging and the radio link back to the ground, was designed and built by the team itself.
 
-{% include figure.liquid loading="eager" path="assets/img/space_team.jpg" title="Working on the Lamarr rocket in the TU Wien Space Team workshop" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-sm-center">
+  <div class="col-sm-10 mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/space_team.jpg" title="Working on the Lamarr rocket in the TU Wien Space Team workshop" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
 
 My part of the project was on the software side, where I worked on the frontend of our ground station. That is the screen the team watches during the countdown and the flight, with live data such as altitude, speed and engine sensor readings arriving over the radio link in real time. The aim was to make all of this easy to read at a glance, so that anyone on the team could quickly tell whether the rocket was healthy before and during the launch.
 

@@ -9,7 +9,11 @@ category: engineering
 
 This project teaches an SO-101 robot arm to move chess pieces on a real board from plain language commands such as "move knight from b1 to c3". A camera watches the board and works out where the pieces are, simple rules turn the command into a concrete move, and a vision-language-action model then drives the arm to carry it out.
 
-{% include figure.liquid loading="eager" path="assets/img/chess_robot.jpg" title="The chess-robot setup at the TU Wien Robotics Club" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-sm-center">
+  <div class="col-sm-10 mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/chess_robot.jpg" title="The chess-robot setup at the TU Wien Robotics Club" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
 
 The system works as a pipeline. First the perception step uses a single camera to find the squares and read which ones are occupied and in what color, and it keeps track of the board as the game goes on. Then a set of fixed rules figures out the source and target squares and handles captures by splitting them into two steps, first removing the captured piece and then placing the new one. The arm itself is controlled by a pi0.5 model that was fine-tuned with LeRobot, and every real movement passes through a fail-closed safety layer before it reaches the robot. Training runs on a rented GPU while the laptop takes care of the robot, the recording of data, and the evaluation.
 
