@@ -38,12 +38,7 @@ latest_posts:
   @media (max-width: 576px) { .news-row { flex-direction: column; gap: 0.1rem; } }
   /* Keep the bio text in its own column so it never flows underneath the profile image */
   @media (min-width: 576px) {
-    .post > article { display: flow-root; }
-    .post > article > p { margin-right: calc(30% + 1.5rem); }
-    .post > article > .news-heading { clear: right; }
-  }
-  @media (min-width: 930px) {
-    .post > article > p { margin-right: 300px; }
+    .post > article > .clearfix { display: flow-root; }
   }
 </style>
 
