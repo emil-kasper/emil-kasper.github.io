@@ -63,7 +63,7 @@ cv:
 
       - company: European Student Assembly 2026, EUC Voices
         position: Delegate
-        location: Strasbourg, France (hybrid)
+        location: Strasbourg, France
         start_date: 2026-01
         end_date: 2026-04
         highlights:
@@ -113,25 +113,10 @@ cv:
         summary: "Algorithms, use cases, and applications"
       - name: Software Engineering
         summary: "Git, Docker, Maven, REST APIs"
-      - name: Data Analysis
-        summary: "Jupyter, NumPy, pandas, Matplotlib, R"
-      - name: Human-Centered Computing
-        summary: "HCI, HMI, user-centered design, UX principles"
+      - name: Human-AI collaboration
+        summary: "shared-initiative interaction, explainable AI, human-in-the-loop"
       - name: Generative AI
         summary: "Prompting, API-based integration, prototype development"
-      - name: Optimal Control
-        summary: "Control algorithms for robotics"
-
-    Prizes:
-      - name: Merit-based Scholarships, TU Wien
-        date: 2025
-        summary: Awarded in 2023, 2024, and 2025.
-      - name: Excellence Scholarship, State of Lower Austria
-        date: 2026
-        summary: Awarded to fund studies at ETH Zurich.
-      - name: 3rd Place, Zero One Hack
-        date: 2026
-        summary: Hackathon sponsored by Infineon and AI Factory Austria.
 
     Languages:
       - name: German
@@ -140,5 +125,3 @@ cv:
         summary: "Fluent"
       - name: Russian
         summary: "Fluent"
-      - name: Spanish
-        summary: "Elementary"

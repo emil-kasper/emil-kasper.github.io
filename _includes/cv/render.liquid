@@ -172,8 +172,13 @@
                 {% assign entries = section_entries %}
                 {% include cv/publications.liquid %}
               {% elsif section_title == 'Skills' %}
-                {% assign entries = section_entries %}
-                {% include cv/skills.liquid %}
+                <div class="card-text font-weight-light">
+                  {% for entry in section_entries %}
+                    <div class="skill-item" style="padding: 0.3rem 0;">
+                      <strong>{{ entry.name }}</strong>{% if entry.summary %}: {{ entry.summary }}{% endif %}
+                    </div>
+                  {% endfor %}
+                </div>
               {% elsif section_title == 'Languages' %}
                 {% assign entries = section_entries %}
                 {% include cv/languages.liquid %}
