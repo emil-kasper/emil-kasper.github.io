@@ -5,3 +5,8 @@ design:
     size: a4
     show_footer: false
     show_top_note: false
+  templates:
+    # Education: render the degree inline (avoids the narrow degree column that "BSc (Hons)" overflows into)
+    education_entry:
+      degree_column: null
+      main_column: "**INSTITUTION**, DEGREE_WITH_AREA\nSUMMARY\nHIGHLIGHTS"
