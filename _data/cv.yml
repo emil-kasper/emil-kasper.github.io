@@ -8,7 +8,7 @@ cv:
 
   sections:
     Profile:
-      - Computer Science student moving from TU Wien to ETH Zurich, with a focus on reinforcement learning, robot learning, and human-AI interaction. Experience spanning machine-learning research, software engineering, and robotics.
+      - Computer Science student at ETH Zurich, with a focus on reinforcement learning, robot learning, and human-AI interaction. Experience spanning machine-learning research, software engineering, and robotics.
 
     Experience:
       - company: TU Wien Robotics Club
@@ -88,7 +88,7 @@ cv:
         start_date: 2026-09
         end_date: 2028-05
         highlights:
-          - Accepted to start the Master's program in September 2026.
+          - Major in Machine Intelligence.
 
       - institution: TU Wien (Vienna University of Technology)
         area: Computer Science
@@ -102,7 +102,8 @@ cv:
           - Received merit-based scholarships.
 
     Research:
-      - Coming soon.
+      - name: "Asking Your Advisor: Learning When to Consult Stronger Models in Agentic Systems"
+        summary: "Submitted to ICLR 2027. We train a meta-policy that learns when to consult a stronger advisor model and when to continue with a cheaper one, reaching a better success-cost Pareto frontier than standard advisor-executor setups. Preprint on [arXiv](https://arxiv.org/abs/2610.13870)."
 
     Skills:
       - name: Programming
@@ -111,6 +112,8 @@ cv:
         summary: "Model development and evaluation"
       - name: Reinforcement Learning
         summary: "Algorithms, use cases, and applications"
+      - name: Robot Learning
+        summary: "Vision-language-action models (VLAs), world models, applying machine learning to robotic tasks"
       - name: Software Engineering
         summary: "Git, Docker, Maven, REST APIs"
       - name: Human-AI collaboration
