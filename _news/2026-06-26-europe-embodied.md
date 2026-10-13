@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am attending the [EUROPE EMBODIED](https://europe-embodied.com/) summit in Munich — a gathering focused on embodied AI and robotics. I am looking forward to connecting with fellow researchers and builders working towards physically intelligent systems.
+I am attending the [EUROPE EMBODIED](https://europe-embodied.com/) summit in Munich — a gathering focused on embodied AI and robotics.
