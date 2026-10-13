@@ -195,7 +195,15 @@
                 {% assign entries = section_entries %}
                 {% include cv/references.liquid %}
               {% else %}
-                <!-- Generic section (extended to also render text, name/summary, and dated entries) -->
+                <!-- Generic section (extended to also render text, name/summary, dated, and experience-style entries) -->
+                {% assign is_experience = false %}
+                {% for entry in section_entries %}
+                  {% if entry.company or entry.position %}{% assign is_experience = true %}{% break %}{% endif %}
+                {% endfor %}
+                {% if is_experience %}
+                  {% assign entries = section_entries | al_cv_sort_by_date %}
+                  {% include cv/experience.liquid %}
+                {% else %}
                 {% for entry in section_entries %}
                   {% if entry.bullet %}
                     <ul class="card-text font-weight-light list-group list-group-flush">
@@ -213,6 +221,7 @@
                     <p class="card-text font-weight-light">{{ entry | markdownify | remove: '<p>' | remove: '</p>' }}</p>
                   {% endif %}
                 {% endfor %}
+                {% endif %}
               {% endif %}
             </div>
           </div>

@@ -11,16 +11,6 @@ cv:
       - Computer Science student at ETH Zurich, with a focus on reinforcement learning, robot learning, and human-AI interaction. Experience spanning machine-learning research, software engineering, and robotics.
 
     Experience:
-      - company: TU Wien Robotics Club
-        position: Machine Learning Engineer
-        location: Vienna, Austria
-        start_date: 2026-04
-        end_date: present
-        highlights:
-          - Implementing vision-language-action models (VLAs) and world models for robotics tasks.
-          - Leading the reinforcement learning division.
-          - Building a chess robot that autonomously plays chess and moves the pieces.
-
       - company: IVIA Lab, ETH Zurich
         position: Research Fellow (ETH SSRF)
         location: Zurich, Switzerland
@@ -61,25 +51,6 @@ cv:
           - Investigating the convergence and stability of Q-Learning and Speedy Q-Learning.
           - Experimenting with PPO for robotic hand manipulation.
 
-      - company: European Student Assembly 2026, EUC Voices
-        position: Delegate
-        location: Strasbourg, France
-        start_date: 2026-01
-        end_date: 2026-04
-        highlights:
-          - Representing the EULiST alliance at the European Student Assembly 2026.
-          - Debating key issues and advocating for policy changes at the European level.
-          - Writing policy recommendations on empowering inclusive digital literacy and building resilience.
-
-      - company: TU Wien Space Team
-        position: Frontend Developer
-        location: Vienna, Austria
-        start_date: 2025-03
-        end_date: 2025-10
-        highlights:
-          - Contributing to the "Lamarr" project at the 2025 European Rocketry Challenge (EuRoC).
-          - Building frontend tooling for rocket system control.
-
     Education:
       - institution: ETH Zurich
         area: Computer Science
@@ -104,6 +75,56 @@ cv:
     Research:
       - name: "Asking Your Advisor: Learning When to Consult Stronger Models in Agentic Systems"
         summary: "Submitted to ICLR 2027. We train a meta-policy that learns when to consult a stronger advisor model and when to continue with a cheaper one, reaching a better success-cost Pareto frontier than standard advisor-executor setups. Preprint on [arXiv](https://arxiv.org/abs/2610.13870)."
+
+    Programs:
+      - company: TU Wien Informatics
+        position: Bachelor with Honors
+        location: Vienna, Austria
+        start_date: 2022-10
+        end_date: 2026-05
+        highlights:
+          - Selected for the Informatics excellence program, a performance-based honors track comparable to the Anglo-American honors model.
+          - Admission and graduation depend solely on performance, placing graduates among the top 5 percent of students at TU Wien.
+          - Building an individual advanced curriculum with a mentor, drawing on research-oriented and master's-level courses.
+
+      - company: European Student Assembly 2026, EUC Voices
+        position: Delegate
+        location: Strasbourg, France
+        start_date: 2026-01
+        end_date: 2026-04
+        highlights:
+          - Representing the EULiST alliance at the European Student Assembly 2026.
+          - Debating key issues and advocating for policy changes at the European level.
+          - Writing policy recommendations on empowering inclusive digital literacy and building resilience.
+
+    Student Engagements:
+      - company: TU Wien Robotics Club
+        position: Machine Learning Engineer
+        location: Vienna, Austria
+        start_date: 2026-04
+        end_date: present
+        highlights:
+          - Implementing vision-language-action models (VLAs) and world models for robotics tasks.
+          - Leading the reinforcement learning division.
+          - Building a chess robot that autonomously plays chess and moves the pieces.
+
+      - company: European Student Robotics Association (ESRA)
+        position: Executive Board Member, Partnerships
+        location: Europe
+        start_date: 2026-09
+        end_date: present
+        highlights:
+          - Serving on the executive board of [ESRA](https://esrarobotics.eu/), the European Student Robotics Association.
+          - Driving partnerships to push the boundaries of European robotics.
+
+      - company: TU Wien Space Team
+        position: Frontend Developer
+        location: Vienna, Austria
+        start_date: 2025-03
+        end_date: 2025-10
+        highlights:
+          - Contributing to the "Lamarr" project at the 2025 European Rocketry Challenge (EuRoC).
+          - Building frontend tooling for rocket system control.
 
     Skills:
       - name: Programming
