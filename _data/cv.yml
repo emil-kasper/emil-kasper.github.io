@@ -11,6 +11,15 @@ cv:
       - Computer Science student at ETH Zurich, with a focus on reinforcement learning, robot learning, and human-AI interaction. Experience spanning machine-learning research, software engineering, and robotics.
 
     Experience:
+      - company: Agile Robots SE
+        position: Machine Learning Engineer (Intern)
+        location: Munich, Germany
+        start_date: 2026-10
+        end_date: present
+        highlights:
+          - Designing and running machine-learning training environments.
+          - Developing and integrating software systems, and prototyping in support of applied AI development.
+
       - company: IVIA Lab, ETH Zurich
         position: Research Fellow (ETH SSRF)
         location: Zurich, Switzerland
@@ -24,7 +33,7 @@ cv:
       - company: Siemens
         position: Software Engineer
         location: Vienna, Austria
-        start_date: 2025-08
+        start_date: 2025-07
         end_date: 2026-06
         highlights:
           - Contributing to a test simulation framework for the European Train Control System (ETCS).
@@ -57,7 +66,7 @@ cv:
         degree: MSc
         location: Zurich, Switzerland
         start_date: 2026-09
-        end_date: 2028-05
+        end_date: 2028-06
         highlights:
           - Major in Machine Intelligence.
 
@@ -76,27 +85,6 @@ cv:
       - name: "Asking Your Advisor: Learning When to Consult Stronger Models in Agentic Systems"
         summary: "Submitted to ICLR 2027. We train a meta-policy that learns when to consult a stronger advisor model and when to continue with a cheaper one, reaching a better success-cost Pareto frontier than standard advisor-executor setups. Preprint on [arXiv](https://arxiv.org/abs/2610.13870)."
 
-    Programs:
-      - company: TU Wien Informatics
-        position: Bachelor with Honors
-        location: Vienna, Austria
-        start_date: 2022-10
-        end_date: 2026-05
-        highlights:
-          - Selected for the Informatics excellence program, a performance-based honors track comparable to the Anglo-American honors model.
-          - Admission and graduation depend solely on performance, placing graduates among the top 5 percent of students at TU Wien.
-          - Building an individual advanced curriculum with a mentor, drawing on research-oriented and master's-level courses.
-
-      - company: European Student Assembly 2026, EUC Voices
-        position: Delegate
-        location: Strasbourg, France
-        start_date: 2026-01
-        end_date: 2026-04
-        highlights:
-          - Representing the EULiST alliance at the European Student Assembly 2026.
-          - Debating key issues and advocating for policy changes at the European level.
-          - Writing policy recommendations on empowering inclusive digital literacy and building resilience.
-
     Student Engagements:
       - company: TU Wien Robotics Club
         position: Machine Learning Engineer
@@ -105,7 +93,6 @@ cv:
         end_date: present
         highlights:
           - Implementing vision-language-action models (VLAs) and world models for robotics tasks.
-          - Leading the reinforcement learning division.
           - Building a chess robot that autonomously plays chess and moves the pieces.
 
       - company: European Student Robotics Association (ESRA)
@@ -126,6 +113,27 @@ cv:
           - Contributing to the "Lamarr" project at the 2025 European Rocketry Challenge (EuRoC).
           - Building frontend tooling for rocket system control.
 
+    Programs:
+      - company: TU Wien Informatics
+        position: Bachelor with Honors
+        location: Vienna, Austria
+        start_date: 2024-10
+        end_date: 2026-05
+        highlights:
+          - Selected for the Informatics excellence program, a performance-based honors track comparable to the Anglo-American honors model.
+          - Performance-based admission and graduation places graduates among the top 5 percent of students at TU Wien.
+          - Extends the studies by one year with research-oriented and master's-level courses ([program website](https://informatics.tuwien.ac.at/bachelor-with-honors/)).
+
+      - company: European Student Assembly 2026, EUC Voices
+        position: Delegate
+        location: Strasbourg, France
+        start_date: 2026-01
+        end_date: 2026-04
+        highlights:
+          - Representing the EULiST alliance at the European Student Assembly 2026.
+          - Debating key issues and advocating for policy changes at the European level.
+          - Writing [policy recommendations](https://eucvoices.eu/sites/default/files/2026-08/ESA26%20Policy%20Recommendations%20%281%29.pdf) on empowering inclusive digital literacy and building resilience.
+
     Skills:
       - name: Programming
         summary: "Python, Java, C#, HTML, CSS, JavaScript"
@@ -134,13 +142,13 @@ cv:
       - name: Reinforcement Learning
         summary: "Algorithms, use cases, and applications"
       - name: Robot Learning
-        summary: "Vision-language-action models (VLAs), world models, applying machine learning to robotic tasks"
+        summary: "Theory of VLAs and world models, applying reinforcement learning for robotics tasks"
       - name: Software Engineering
         summary: "Git, Docker, Maven, REST APIs"
       - name: Human-AI collaboration
-        summary: "shared-initiative interaction, explainable AI, human-in-the-loop"
+        summary: "shared-initiative interaction, human-in-the-loop"
       - name: Generative AI
-        summary: "Prompting, API-based integration, prototype development"
+        summary: "Agentic AI, prompting, API-based integration, prototype development"
 
     Languages:
       - name: German
