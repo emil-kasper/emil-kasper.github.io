@@ -7,9 +7,6 @@ cv:
       username: emil-kasper
 
   sections:
-    Profile:
-      - Computer Science student at ETH Zurich, with a focus on reinforcement learning, robot learning, and human-AI interaction. Experience spanning machine-learning research, software engineering, and robotics.
-
     Experience:
       - company: Agile Robots SE
         position: Machine Learning Engineer (Working Student)

@@ -118,7 +118,7 @@
         {% endif %}
 
         <!-- Profile (custom override: render before Experience) -->
-        {% assign profile_entries = cv.sections.Profile %}
+        {% assign profile_entries = site.data.cv_profile | default: cv.sections.Profile %}
         {% if profile_entries and profile_entries.size > 0 %}
           <a class="anchor" id="profile"></a>
           <div class="card mt-3 p-3">
