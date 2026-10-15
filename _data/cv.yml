@@ -18,7 +18,7 @@ cv:
         end_date: present
         highlights:
           - Designing and running machine-learning training environments.
-          - Developing and integrating software systems, and prototyping in support of applied AI development.
+          - Collecting teleop data and preparing the data for model training.
 
       - company: IVIA Lab, ETH Zurich
         position: Research Fellow (ETH SSRF)
@@ -28,7 +28,7 @@ cv:
         summary: "Supervised by Prof. Menna El-Assady."
         highlights:
           - Selected as one of 20 students from over 4,000 applicants for the ETH Student Summer Research Fellowship.
-          - Working on explainable AI and human-AI interaction.
+          - Working on agentic AI and agent-agent communication.
 
       - company: Siemens
         position: Software Engineer (Working Student)
@@ -91,7 +91,7 @@ cv:
         start_date: 2026-04
         end_date: present
         highlights:
-          - Implementing vision-language-action models (VLAs) and world models for robotics tasks.
+          - Implementing VLAs for robotic applications with an SO101 arm.
           - Building a chess robot that autonomously plays chess and moves the pieces.
 
       - company: European Student Robotics Association (ESRA)
@@ -141,7 +141,7 @@ cv:
       - name: Reinforcement Learning
         summary: "Algorithms, use cases, and applications"
       - name: Robot Learning
-        summary: "Theory of VLAs and world models, applying reinforcement learning for robotics tasks"
+        summary: "Theory of VLAs, applied ML and implementation of VLAs, applying reinforcement learning for robotics tasks"
       - name: Software Engineering
         summary: "Git, Docker, Maven, REST APIs"
       - name: Human-AI collaboration
