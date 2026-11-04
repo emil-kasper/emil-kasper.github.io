@@ -82,15 +82,6 @@ cv:
         summary: "Submitted to ICLR 2027. We train a meta-policy that learns when to consult a stronger advisor model and when to continue with a cheaper one, reaching a better success-cost Pareto frontier than standard advisor-executor setups. Preprint on [arXiv](https://arxiv.org/abs/2610.13870)."
 
     Student Engagements:
-      - company: TU Wien Robotics Club
-        position: Machine Learning Engineer
-        location: Vienna, Austria
-        start_date: 2026-04
-        end_date: present
-        highlights:
-          - Implementing VLAs for robotic applications with an SO101 arm.
-          - Building a chess robot that autonomously plays chess and moves the pieces.
-
       - company: European Student Robotics Association (ESRA)
         position: Executive Board Member, Partnerships
         location: Europe
@@ -100,8 +91,17 @@ cv:
           - Serving on the executive board of [ESRA](https://esrarobotics.eu/), the European Student Robotics Association.
           - Driving partnerships to push the boundaries of European robotics.
 
+      - company: TU Wien Robotics Club
+        position: Machine Learning Engineer
+        location: Vienna, Austria
+        start_date: 2026-04
+        end_date: 2026-09
+        highlights:
+          - Implementing VLAs for robotic applications with an SO101 arm.
+          - Building a chess robot that autonomously plays chess and moves the pieces.
+
       - company: TU Wien Space Team
-        position: Frontend Developer
+        position: Software Developer
         location: Vienna, Austria
         start_date: 2025-03
         end_date: 2025-10
@@ -117,7 +117,6 @@ cv:
         end_date: 2026-05
         highlights:
           - Selected for the Informatics excellence program, a performance-based honors track comparable to the Anglo-American honors model.
-          - Performance-based admission and graduation places graduates among the top 5 percent of students at TU Wien.
           - Extends the studies by one year with research-oriented and master's-level courses ([program website](https://informatics.tuwien.ac.at/bachelor-with-honors/)).
 
       - company: European Student Assembly 2026, EUC Voices
@@ -127,8 +126,7 @@ cv:
         end_date: 2026-04
         highlights:
           - Representing the EULiST alliance at the European Student Assembly 2026.
-          - Debating key issues and advocating for policy changes at the European level.
-          - Writing [policy recommendations](https://eucvoices.eu/sites/default/files/2026-08/ESA26%20Policy%20Recommendations%20%281%29.pdf) on empowering inclusive digital literacy and building resilience.
+          - Writing [policy recommendations](https://eucvoices.eu/sites/default/files/2026-08/ESA26%20Policy%20Recommendations%20%281%29.pdf) on empowering inclusive digital literacy and building cyber-resilience at a European level.
 
     Languages:
       - name: German

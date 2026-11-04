@@ -1,0 +1,5 @@
+# Extra CV highlights shown only on the website /cv page (kept out of cv.yml so the rendercv PDF omits them).
+# Keyed by entry position. `after` = number of cv.yml highlights to render before inserting this one.
+Bachelor with Honors:
+  - after: 1
+    text: Performance-based admission and graduation places graduates among the top 5 percent of students at TU Wien.

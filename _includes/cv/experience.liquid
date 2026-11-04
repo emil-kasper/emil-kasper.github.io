@@ -98,12 +98,28 @@
             </h6>
           {% endif %}
 
-          {% if entry.highlights %}
+          {% comment %} Website-only highlights from _data/cv_web_only.yml (keyed by position), omitted from the rendercv PDF {% endcomment %}
+          {% assign web_only = site.data.cv_web_only[entry.position] %}
+          {% if entry.highlights or web_only %}
             <ul class="items">
+              {% for extra in web_only %}
+                {% if extra.after == 0 %}
+                  <li>
+                    <span class="item">{{ extra.text | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                  </li>
+                {% endif %}
+              {% endfor %}
               {% for item in entry.highlights %}
                 <li>
                   <span class="item">{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</span>
                 </li>
+                {% for extra in web_only %}
+                  {% if extra.after == forloop.parentloop.index %}
+                    <li>
+                      <span class="item">{{ extra.text | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                    </li>
+                  {% endif %}
+                {% endfor %}
               {% endfor %}
             </ul>
           {% endif %}
