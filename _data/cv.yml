@@ -9,7 +9,7 @@ cv:
   sections:
     Experience:
       - company: Agile Robots SE
-        position: Machine Learning Engineer (Working Student)
+        position: Working Student
         location: Munich, Germany
         start_date: 2026-10
         end_date: present
@@ -18,7 +18,7 @@ cv:
           - Independently researching and implementing human-in-the-loop reinforcement learning (HIL-RL) for dual-arm manipulation tasks.
 
       - company: IVIA Lab, ETH Zurich
-        position: Research Fellow (ETH SSRF)
+        position: Research Intern
         location: Zurich, Switzerland
         start_date: 2026-07
         end_date: 2026-08
@@ -28,7 +28,7 @@ cv:
           - Working on agentic AI and agent-agent communication.
 
       - company: Siemens
-        position: Software Engineer (Working Student)
+        position: Working Student
         location: Vienna, Austria
         start_date: 2025-07
         end_date: 2026-06
@@ -106,8 +106,8 @@ cv:
         start_date: 2025-03
         end_date: 2025-10
         highlights:
-          - Contributing to the "Lamarr" project at the 2025 European Rocketry Challenge (EuRoC).
-          - Building frontend tooling for rocket system control.
+          - Building frontend software for the control system of Hedy, the liquid-fuel rocket of the Lamarr project, at the 2025 European Rocketry Challenge (EuRoC).
+          - Hedy reached 5,336 meters and broke the sound barrier at Mach 1.1, the highest flight in the Liquid 9 km category and the second highest of the entire competition ([launch video](https://www.youtube.com/watch?v=pc_Dvfo6m0g)).
 
     Programs:
       - company: TU Wien Informatics
