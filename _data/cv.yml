@@ -15,7 +15,7 @@ cv:
         end_date: present
         highlights:
           - Designing and running machine-learning training environments.
-          - Collecting teleop data and preparing the data for model training.
+          - Independently researching and implementing human-in-the-loop reinforcement learning (HIL-RL) for dual-arm manipulation tasks.
 
       - company: IVIA Lab, ETH Zurich
         position: Research Fellow (ETH SSRF)
@@ -53,7 +53,7 @@ cv:
         end_date: 2026-04
         summary: "Supervised by Prof. Clemens Heitzinger."
         highlights:
-          - Investigating the convergence and stability of Q-Learning and Speedy Q-Learning.
+          - Proving better convergence and stability guarantees for Q-Learning and Speedy Q-Learning through batch sampling.
           - Experimenting with PPO for robotic hand manipulation.
 
     Education:
@@ -129,22 +129,6 @@ cv:
           - Representing the EULiST alliance at the European Student Assembly 2026.
           - Debating key issues and advocating for policy changes at the European level.
           - Writing [policy recommendations](https://eucvoices.eu/sites/default/files/2026-08/ESA26%20Policy%20Recommendations%20%281%29.pdf) on empowering inclusive digital literacy and building resilience.
-
-    Skills:
-      - name: Programming
-        summary: "Python, Java, C#, HTML, CSS, JavaScript"
-      - name: Machine Learning
-        summary: "Model development and evaluation"
-      - name: Reinforcement Learning
-        summary: "Algorithms, use cases, and applications"
-      - name: Robot Learning
-        summary: "Theory of VLAs, applied ML and implementation of VLAs, applying reinforcement learning for robotics tasks"
-      - name: Software Engineering
-        summary: "Git, Docker, Maven, REST APIs"
-      - name: Human-AI collaboration
-        summary: "shared-initiative interaction, human-in-the-loop"
-      - name: Generative AI
-        summary: "Agentic AI, prompting, API-based integration, prototype development"
 
     Languages:
       - name: German
